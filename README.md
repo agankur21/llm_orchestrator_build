@@ -1,2 +1,2 @@
-# llm_orchestrator_build
-Build files for the LLM orchestrator
+# LLM Orchestrator Depdencies Build
+Build depedencies for LLM orchestrator
