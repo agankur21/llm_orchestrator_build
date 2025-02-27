@@ -22,6 +22,7 @@ install:
 	make build target=mvfst
 	make build target=fbthrift
 	make build target=fb303
+	make build target=proxygen
 
 
 build:
